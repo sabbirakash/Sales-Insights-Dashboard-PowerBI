@@ -207,6 +207,16 @@ This dashboard helps organizations:
 
 ---
 
+# Business Insight Summary
+
+* Achieved 984.81M total revenue with 2.43M units sold, indicating strong overall business performance.
+* Generated a total 24.66M profit margin, providing a clear view of business profitability.
+* Delhi NCR contributes the highest profit percentage and profit contribution among all markets.
+* Brick & Mortar customers account for approximately 75.6% of revenue, making them the dominant sales channel.
+* Revenue trends reveal noticeable fluctuations over time, helping identify seasonal peaks and slower business periods.
+* A small group of high-value customers contributes a significant share of total revenue, emphasizing the importance of customer relationship management.
+* Interactive year and month filters enable flexible analysis of sales performance across different time periods.
+
 # What I Learned
 
 During this project, I strengthened my skills in:
