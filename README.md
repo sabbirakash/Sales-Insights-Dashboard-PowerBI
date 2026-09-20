@@ -1,6 +1,6 @@
 # 📊 Sales Insights Dashboard
 
-![Banner](Images/Sales%20Insights%20Banner.png)
+![Banner](https://github.com/sabbirakash/Sales-Insights-Dashboard-PowerBI/blob/main/Images/Sales_Insights_Banner.png)
 
 ---
 
@@ -28,7 +28,11 @@ It enables business stakeholders to monitor KPIs, identify high-performing marke
 
 # Dashboard Preview
 
-![Dashboard](Images/Sales%20Insights%20Dashboard.png)
+![Dashboard](https://github.com/sabbirakash/Sales-Insights-Dashboard-PowerBI/blob/main/Images/Key%20Insights.png)
+
+![Dashboard](https://github.com/sabbirakash/Sales-Insights-Dashboard-PowerBI/blob/main/Images/Profit%20Analysis.png)
+
+![Dashboard](https://github.com/sabbirakash/Sales-Insights-Dashboard-PowerBI/blob/main/Images/Performance%20Insights.png)
 
 ---
 
